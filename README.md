@@ -57,4 +57,4 @@ The objective of this project is to forecast the default status of bank clients 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/esaiudya87/german_bank_loan.git
+   git clone https://github.com/esaiudaya/german_bank_loan.git
